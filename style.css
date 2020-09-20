@@ -1,0 +1,43 @@
+/*image settings*/
+.image {
+  height: 25px;
+  width: 25px;
+  float: left;
+  padding-left: 5px;
+}
+
+/*setting ukuran font paragraf*/
+p {
+  font-size: 14px;
+}
+
+/*setting paragraf pertama*/
+.paragraf1 {
+  background-color: orange;
+  border: 1px solid black;
+  outline: 3px solid white;
+}
+
+/*setting paragraf kedua*/
+.paragraf2 {
+  color: white;
+  background-color: blue;
+  border: 1px solid black;
+  outline: 3px solid white;
+}
+
+/*setting paragraf ketiga*/
+.paragraf3 {
+  font-family: monospace;
+  border: 1px solid grey;
+}
+
+/*setting paragraf keempat*/
+.paragraf4 {
+  font-weight: bolder;
+  background-color: grey;
+  border: 1px solid black;
+  outline: 3px solid white;
+}
+
+/*Alhamdulillah selesai*/
